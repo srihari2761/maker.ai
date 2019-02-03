@@ -29,7 +29,7 @@ Generative Adversarial Network for 3D object reconstruction from 2D image :
 
 | Original Sketch 1| 
 | ------------- | 
-| ![alt text](https://github.com/srihari2761/maker.ai/blob/master/image/chair_test1.png)| 
+| ![alt text](https://github.com/srihari2761/maker.ai/blob/master/image/chair_test1.jpg)| 
 
 3D Reconstructed Model:
 
@@ -39,7 +39,7 @@ Generative Adversarial Network for 3D object reconstruction from 2D image :
 
 | Original Sketch 2 | 
 | ------------- | 
-| ![alt text](https://github.com/srihari2761/maker.ai/blob/master/image/chair_test2.png)| 
+| ![alt text](https://github.com/srihari2761/maker.ai/blob/master/image/chair_test2.jpg)| 
 
 3D Reconstructed Model:
 
@@ -48,7 +48,7 @@ Generative Adversarial Network for 3D object reconstruction from 2D image :
 
 | Original Sketch 3| 
 | ------------- | 
-| ![alt text](https://github.com/srihari2761/maker.ai/blob/master/image/chair_test3.png)| 
+| ![alt text](https://github.com/srihari2761/maker.ai/blob/master/image/chair_test3.jpg)| 
 
 3D Reconstructed Model:
 
