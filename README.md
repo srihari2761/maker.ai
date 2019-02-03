@@ -24,4 +24,4 @@ blender --background --python render.py -- ../../output/chair_1.mat ../result/ c
 
 Generative Adversarial Network for 3D object reconstruction from 2D image :
 
-~[alt text](https://github.com/srihari2761/maker.ai/blob/master/model.jpg)
+![alt text](https://github.com/srihari2761/maker.ai/blob/master/model.jpg)
