@@ -19,3 +19,9 @@ blender --background --python render.py -- ../../output/chair_1.mat ../result/ c
 3D Reconstructed Model:
 
 ![alt text](https://github.com/srihari2761/maker.ai/blob/master/visualization/result/chair_draw_0_view_1.png) | ![alt text](https://github.com/srihari2761/maker.ai/blob/master/visualization/result/chair_draw_0_view_2.png)| ![alt text](https://github.com/srihari2761/maker.ai/blob/master/visualization/result/chair_draw_0_view_3.png)  |
+
+
+
+Generative Adversarial Network for 3D object reconstruction from 2D image :
+
+~[alt text](https://github.com/srihari2761/maker.ai/blob/master/model.jpg)
